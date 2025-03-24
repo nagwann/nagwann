@@ -1,4 +1,4 @@
-## Hi , I'm Nagwan
+## Hi , I'm Nagwan 🤍
 
 👩‍💻 Software engineer </br>
 🎨 I love developing applications and designing  
