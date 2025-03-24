@@ -1,25 +1,27 @@
-## Hi there 👋
+## Hi , I'm Nagwan
 
-👩‍💻 Software engineer 
+👩‍💻 Software engineer </br>
 🎨 I love developing applications and designing  
-📹 I share coding and design content on [Instagram](https://instagram.com/)  
+📹 I share coding and design content on [LinkedIn](https://linkedin.com/in/Nagwan )  
 📂 Download my projects from [Gumroad](https://gumroad.com/)  
 
-### Tech Stack 🛠️  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nagwan ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagwann.ashraf@gmail.com) 
+
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nagwann&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nagwann&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagwann&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=nagwann&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
 
-### GitHub Stats 📊  
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagwan&theme=dark)
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
-
-
-![GitHub Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YourUsername&theme=dark)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
